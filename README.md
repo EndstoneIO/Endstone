@@ -5,9 +5,9 @@ Run Java software on the cloud based environment.
 
 ---
 
-Source code modification tool for Java software without touching actual source files. Also you need not to redistribute modified source which can be illegal.
+Endstone makes enable to run Java softwares which is designed for physical server on the cloud based environment. By modifing original software's code with legal-safe way. 
 
 ---
 
-### How can Endstone works?
+### How exactly Endstone works?
 Endstone modify Java bytecodes on runtime. You can easily do this by making an Endstone module.
